@@ -7,6 +7,10 @@ public class Practice {
         System.out.println("Practice");
         System.out.println("Practice");
         System.out.println("Practice");
+        
+        
+        
+        //extra line of code - written from GitHub
 
     }
 }
